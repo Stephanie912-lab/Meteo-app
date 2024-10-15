@@ -72,12 +72,12 @@
       }
       
       .weather-app-icon {
-        font-size: 44px;
-        margin-top: 22px;
+        font-size: 40px;
+        margin-top: 14px;
       }
       
       .weather-app-temperature {
-        font-size: 88px;
+        font-size: 70px;
         margin-left: 10px;
         font-weight: bold;
       }
@@ -91,6 +91,6 @@
         border-top: 1px solid #f9f7fe;
         padding: 30px 0 0 0;
         text-align: center;
-        font-size: 14px;
+        font-size: 12px;
         color: rgba(0, 0, 0, 0.6);
       }
